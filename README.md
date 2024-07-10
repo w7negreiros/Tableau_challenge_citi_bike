@@ -4,7 +4,7 @@
 Monthly CSV files (July 2018 - June 2019) were collected from <a href="https://www.citibikenyc.com/system-data" rel="nofollow">Citi Bike Data</a>
 
 # Visualizations
-https://public.tableau.com/app/profile/willy.negreiros/viz/citiBikes_17206276027490/Analysis?publish=yes
+https://public.tableau.com/app/profile/willy.negreiros/viz/NY_citi_bikes/Analysis?publish=yes
 
 # Analysis
 
